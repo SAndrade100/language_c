@@ -14,7 +14,7 @@ int main() {
     } else if (N % M == 0) {
         printf("%d e multiplo de %d.\n", N, M);
     } else {
-        printf("%d nao e multiplo de %d.\n", N, M);
+        printf("%d nao e mukltiplo de %d.\n", N, M);
     }
 
     return 0;
